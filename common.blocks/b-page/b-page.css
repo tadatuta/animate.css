@@ -1,0 +1,3 @@
+.b-page { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
+    -webkit-backface-visibility: hidden;
+}
